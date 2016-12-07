@@ -1,0 +1,79 @@
+.banner {
+	background: url(../img/logo.jpg) no-repeat;
+	height:404px;
+	width: 940px; 
+}
+
+.banner p {
+
+	color: white;
+	font-size: 20px;
+	font-weight: normal;
+	background: rgba(232,102,60, .5);
+	width: 410px;
+
+}
+
+header {
+	overflow: hidden;
+} 
+
+header h1 {
+	background: url(../img/logo.png);
+	width: 87px;
+	height: 34px;
+	text-indent: -9999px;
+	float: left;
+	color: e8663c;
+	
+}
+
+.main {
+color: #e8663c;
+	
+
+}
+
+nav {
+	float: right;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	text-transform: uppercase;
+}
+
+.grid_4 {background: e8663c;}
+
+.container_12 {background: green;}
+
+p {
+	font-size: 12px;
+	line-height: 18px;
+	color: #414141;
+}
+
+.main {
+	margin-top: 20px;
+}
+
+footer {clear: both;}
+
+a {
+	color: #e3e3e3; 
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
+.button {
+color: white;
+background: #e8663c;
+padding: 6px;
+} 
+
